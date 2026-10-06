@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 200" role="img" aria-labelledby="title desc">
+  <title id="title">Logo Passerelle</title>
+  <desc id="desc">Un symbole de pont abstrait bleu reliant deux rives</desc>
+  <g fill="none" stroke="#1459D9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 127C50 66 93 36 144 36s94 30 118 91" stroke-width="17"/>
+    <path d="M45 127h198" stroke-width="17"/>
+    <path d="M74 93v34M144 66v61M214 93v34" stroke-width="11"/>
+  </g>
+  <circle cx="144" cy="36" r="8.5" fill="#EAAE53"/>
+  <text x="303" y="111" fill="#102235" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-3">passerelle</text>
+  <text x="308" y="147" fill="#617082" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">ÉTUDES • EXPÉRIENCE • AVENIR</text>
+</svg>
